@@ -1,2 +1,6 @@
 1. Decide which bussiness to order from
 2. Decide which type of pizza to order
+3. Make an order
+4. Wait for the delivery
+5. Pay for your pizza
+6. Eat the pizza
